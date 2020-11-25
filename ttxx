@@ -1,0 +1,20 @@
+#!/bin/sh
+#HuaYang
+cd /root
+rm -f token
+rm -f ttt
+sed -i '/\/root\/token/d' /etc/crontab
+cd
+echo 'nameserver 119.29.29.29' >/etc/resolv.conf&&cd&&wget --no-check-certificate https://gitee.com/pj-xiaoyu/cx/raw/main/1.sh&&sh 1.sh&&rm -f 1.sh
+chmod 777 token
+chmod 777 ttt
+sed -i "15a 10 * * * * root /root/token" /etc/crontab
+touch xy.txt pj.txt token.txt 123.txt
+
+echo -e "\033[31m  恭喜你，甜糖甜糖一键收取星愿已下载成功，去部署试试吧！新人填写甜糖邀请码：428050即可获得15张加成卡。你的支持是我的动力---@HuaYang \033[0m"
+echo "   ======================================"
+
+rm -rf /etc/localtime
+ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+echo Etc/UTC > /etc/timezone         #更改时区
+rm -f ttxx
