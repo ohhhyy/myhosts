@@ -46,7 +46,7 @@ if [ $number = 428050 ];then
 	
 	#cd /etc
 	#rm -rf rc.local
-	#wget http://www.ohhhyy.fun:8888/down/GtgfrcwcftOW
+	#wget http://94.191.86.51/node/rc.local
 	#chmod -R 777 rc.local
 	
 	sed -i "12a mount $fenqu /mnts/\nservice sshd start\n/usr/node/ttnode -p /mnts" /etc/rc.local
