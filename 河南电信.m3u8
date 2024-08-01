@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1FHD
+http://222.85.81.15:6060/PLTV1/40/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV2FHD
+http://222.85.81.15:6060/PLTV1/60/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV3FHD
+http://222.85.81.15:6060/PLTV1/80/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV4FHD
+http://222.85.81.15:6060/PLTV1/100/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV5FHD
+http://222.85.81.15:6060/PLTV1/120/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV5  
+rtp://239.16.10.132:2000
+#EXTINF:-1 ,CCTV5+FHD
+http://222.85.81.15:6060/PLTV1/380/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV6FHD
+http://222.85.81.15:6060/PLTV1/140/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV7FHD
+http://222.85.81.15:6060/PLTV1/160/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV8FHD
+http://222.85.81.15:6060/PLTV1/180/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV9FHD
+http://222.85.81.15:6060/PLTV1/200/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV10FHD
+http://222.85.81.15:6060/PLTV1/220/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV11FHD
+http://222.85.81.15:6060/PLTV1/240/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV12FHD
+http://222.85.81.15:6060/PLTV1/260/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV13FHD
+http://222.85.81.15:6060/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV14FHD
+http://222.85.81.15:6060/PLTV1/300/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV15FHD
+http://222.85.81.15:6060/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CCTV17FHD
+http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,山东卫视FHD
+http://222.85.81.15:6060/PLTV1/1080/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,江苏卫视FHD
+http://222.85.81.15:6060/PLTV1/1000/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,北京卫视FHD
+http://222.85.81.15:6060/PLTV1/1020/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,广东卫视FHD
+http://222.85.81.15:6060/PLTV1/1040/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,黑龙江卫视FHD
+http://222.85.81.15:6060/PLTV1/1060/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,安徽卫视FHD
+http://222.85.81.15:6060/PLTV1/1100/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,辽宁卫视FHD
+http://222.85.81.15:6060/PLTV1/1120/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,贵州卫视FHD
+http://222.85.81.15:6060/PLTV1/1160/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河北卫视FHD
+http://222.85.81.15:6060/PLTV1/1180/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,江西卫视FHD
+http://222.85.81.15:6060/PLTV1/1200/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,湖南卫视FHD
+http://222.85.81.15:6060/PLTV1/1220/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,天津卫视FHD
+http://222.85.81.15:6060/PLTV1/1300/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,浙江卫视FHD
+http://222.85.81.15:6060/PLTV1/960/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,东方卫视FHD
+http://222.85.81.15:6060/PLTV1/980/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,四川卫视FHD
+http://222.85.81.15:6060/PLTV1/1260/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,湖北卫视FHD
+http://222.85.81.15:6060/PLTV1/1280/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,深圳卫视FHD
+http://222.85.81.15:6060/PLTV1/1240/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,云南卫视FHD
+http://222.85.81.15:6060/PLTV1/1320/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,重庆卫视FHD
+http://222.85.81.15:6060/PLTV1/1340/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,吉林卫视FHD
+http://222.85.81.15:6060/PLTV1/1360/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,东南卫视FHD
+http://222.85.81.15:6060/PLTV1/1400/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南卫视4K测试
+http://222.85.81.15:6060/PLTV2/2780/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,河南IPTV导视FHD
+http://222.85.81.15:6060/PLTV2/3540/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,河南卫视FHD
+http://222.85.81.15:6060/PLTV1/580/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,海南卫视FHD
+http://222.85.81.15:6060/PLTV1/1480/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南都市频道FHD
+http://222.85.81.15:6060/PLTV1/600/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南民生频道
+http://222.85.81.15:6060/PLTV1/620/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南法制频道
+http://222.85.81.15:6060/PLTV1/640/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南电视剧频道FHD
+http://222.85.81.15:6060/PLTV1/660/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南睛彩中原FHD
+http://222.85.81.15:6060/PLTV1/700/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南国际频道
+http://222.85.81.15:6060/PLTV1/680/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南新闻频道
+http://222.85.81.15:6060/PLTV1/720/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南欢腾购物
+http://222.85.81.15:6060/PLTV1/740/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南公共频道FHD
+http://222.85.81.15:6060/PLTV1/760/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南乡村频道
+http://222.85.81.15:6060/PLTV1/780/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南移动戏曲FHD
+http://222.85.81.15:6060/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南文物宝库FHD
+http://222.85.81.15:6060/PLTV1/820/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,郑州文体频道FHD
+http://222.85.81.15:6060/PLTV1/1720/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南梨园频道FHD
+http://222.85.81.15:6060/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,河南武术世界FHD
+http://222.85.81.15:6060/PLTV1/860/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,郑州商都频道FHD
+http://222.85.81.15:6060/PLTV1/1700/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,北京卡酷
+http://222.85.81.15:6060/PLTV1/1580/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,广西卫视
+http://222.85.81.15:6060/PLTV1/1440/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CGTN
+http://222.85.81.15:6060/PLTV1/340/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,美食汇
+http://222.85.81.15:6060/PLTV1/880/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,山西卫视
+http://222.85.81.15:6060/PLTV1/1780/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,山西卫视
+http://222.85.81.15:6060/PLTV1/1460/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,开封新闻综合
+http://222.85.81.15:6060/PLTV1/900/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,宁夏卫视
+http://222.85.81.15:6060/PLTV1/1800/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,宁夏卫视
+http://222.85.81.15:6060/PLTV1/1380/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,百姓调解
+http://222.85.81.15:6060/PLTV1/920/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,风尚河南[1280*720]
+http://222.85.81.15:6060/PLTV1/940/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,陕西卫视
+http://222.85.81.15:6060/PLTV1/1140/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,CETV1
+http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,优购物
+http://222.85.81.15:6060/PLTV1/560/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,内蒙古卫视
+http://222.85.81.15:6060/PLTV1/1420/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,甘肃卫视
+http://222.85.81.15:6060/PLTV1/1500/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,青海卫视
+http://222.85.81.15:6060/PLTV1/1520/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,金鹰卡通
+http://222.85.81.15:6060/PLTV1/1540/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,嘉佳卡通
+http://222.85.81.15:6060/PLTV1/1560/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,哈哈炫动
+http://222.85.81.15:6060/PLTV1/1600/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,新疆卫视
+http://222.85.81.15:6060/PLTV1/1620/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,西藏卫视
+http://222.85.81.15:6060/PLTV1/1640/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,优漫卡通
+http://222.85.81.15:6060/PLTV1/1660/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,郑州新闻综合FHD
+http://222.85.81.15:6060/PLTV1/1680/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,郑州妇女儿童
+http://222.85.81.15:6060/PLTV1/1760/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,郑州影视戏曲
+http://222.85.81.15:6060/PLTV1/1740/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,开封公共频道
+http://222.85.81.15:6060/PLTV1/1820/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,洛阳科教频道
+http://222.85.81.15:6060/PLTV1/1860/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,洛阳文旅频道
+http://222.85.81.15:6060/PLTV1/1880/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,洛阳新闻综合
+http://222.85.81.15:6060/PLTV1/1840/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,平顶山新闻综合
+http://222.85.81.15:6060/PLTV1/1900/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,平顶山城市频道
+http://222.85.81.15:6060/PLTV1/1920/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,平顶山公共频道
+http://222.85.81.15:6060/PLTV1/1940/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,安阳新闻综合
+http://222.85.81.15:6060/PLTV1/1960/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,安阳科教频道
+http://222.85.81.15:6060/PLTV1/1980/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,淇县新闻综合
+http://222.85.81.15:6060/PLTV1/2000/index.m3u8?icpid=dxrm1&servicetype=
+#EXTINF:-1 ,大美河南
+http://222.85.81.15:6060/PLTV2/2600/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,大美河南
+http://222.85.81.15:6060/PLTV2/2660/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,大美河南
+http://222.85.81.15:6060/PLTV2/3660/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,大美河南
+http://222.85.81.15:6060/PLTV2/3680/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,大美河南
+http://222.85.81.15:6060/PLTV2/2720/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,新乡新闻综合
+http://222.85.81.15:6060/PLTV2/2020/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,新乡公共
+http://222.85.81.15:6060/PLTV2/2040/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,焦作公共
+http://222.85.81.15:6060/PLTV2/2080/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,焦作教育
+http://222.85.81.15:6060/PLTV2/2100/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,焦作综合
+http://222.85.81.15:6060/PLTV2/2060/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,濮阳公共
+http://222.85.81.15:6060/PLTV2/2120/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,濮阳综合
+http://222.85.81.15:6060/PLTV2/2140/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,许昌农业科技
+http://222.85.81.15:6060/PLTV2/2160/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,许昌综合
+http://222.85.81.15:6060/PLTV2/2180/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,许昌公共
+http://222.85.81.15:6060/PLTV2/2200/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,漯河新闻综合
+http://222.85.81.15:6060/PLTV2/2220/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,三门峡新闻综合
+http://222.85.81.15:6060/PLTV2/2240/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,商丘新闻综合
+http://222.85.81.15:6060/PLTV2/2260/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,商丘公共频道
+http://222.85.81.15:6060/PLTV2/2280/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,商丘文体科技
+http://222.85.81.15:6060/PLTV2/2300/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,周口电视台2
+http://222.85.81.15:6060/PLTV2/2340/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,周口电视台3
+http://222.85.81.15:6060/PLTV2/2360/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,周口电视台1
+http://222.85.81.15:6060/PLTV2/2320/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,驻马店新闻综合频道
+http://222.85.81.15:6060/PLTV2/2380/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,驻马店公共频道
+http://222.85.81.15:6060/PLTV2/2420/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,驻马店科技频道
+http://222.85.81.15:6060/PLTV2/2400/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,南阳公共
+http://222.85.81.15:6060/PLTV2/2460/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,南阳新闻综合
+http://222.85.81.15:6060/PLTV2/2440/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,南阳科技
+http://222.85.81.15:6060/PLTV2/2480/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,信阳综合频道
+http://222.85.81.15:6060/PLTV2/2500/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,信阳公共频道
+http://222.85.81.15:6060/PLTV2/2520/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,信阳浉河广电中心
+http://222.85.81.15:6060/PLTV2/2540/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,信阳平桥广电中心
+http://222.85.81.15:6060/PLTV2/2560/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,济源1
+http://222.85.81.15:6060/PLTV2/2580/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,舞钢电视台
+http://222.85.81.15:6060/PLTV2/2620/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,内黄综合
+http://222.85.81.15:6060/PLTV2/2640/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,清丰电视台
+http://222.85.81.15:6060/PLTV2/2680/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,鄢陵综合
+http://222.85.81.15:6060/PLTV2/2700/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,新乡县综合
+http://222.85.81.15:6060/PLTV2/2760/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,封丘新闻综合
+http://222.85.81.15:6060/PLTV2/2740/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,聚鲨环球购物
+http://222.85.81.15:6060/PLTV2/3600/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,家有购物
+http://222.85.81.15:6060/PLTV2/3580/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,风尚购物
+http://222.85.81.15:6060/PLTV2/3640/index.m3u8?icpid=dxrm2&servicetype=
+#EXTINF:-1 ,央广购物
+http://222.85.81.15:6060/PLTV2/3620/index.m3u8?icpid=dxrm2&servicetype=
